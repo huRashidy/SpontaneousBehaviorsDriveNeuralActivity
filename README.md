@@ -1,1 +1,1 @@
-# SpontaneousBehavioursDriveNeuralActivity
+# SpontaneousBehaviourDriveNeuralActivity
